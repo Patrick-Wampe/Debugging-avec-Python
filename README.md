@@ -1,6 +1,6 @@
 # Debugging-avec-Python
 
-Ce projet sert de fil rouge au cours Debugging avec Python, disponible sur OpenClassrooms.
+Ce projet sert de fil rouge au cours Debugging avec Python, disponible sur OpenClassrooms. Vous trouverez également des corrigés d'exercices proposés dans le cours.
 
 Il s'agit d'un jeu permettant de jouer à Pierre-papier-ciseaux avec l'ordinateur. Le projet se trouve dans 3 versions : logiciel, Flask et Django.
 
